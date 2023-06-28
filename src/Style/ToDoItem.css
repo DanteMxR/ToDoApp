@@ -1,0 +1,11 @@
+.todo
+{
+    margin-left: 5px;
+    font-size: 20px;
+}
+.completed
+{
+    text-decoration: line-through;
+    margin-left: 5px;
+    font-size: 20px;
+}

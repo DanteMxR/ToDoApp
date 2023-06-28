@@ -1,0 +1,13 @@
+.ToDoList
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;   
+}
+.ListItem
+{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+}

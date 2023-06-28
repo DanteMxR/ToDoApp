@@ -1,0 +1,51 @@
+body
+{
+    background-color: gray;
+}
+.MainApp
+{
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+    background-color: black;
+
+}
+.Header
+{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.TitleApp
+{
+    color: white;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input
+{
+    margin-left: 20px;
+    height: 30px;
+    width: 70%;
+    border-radius: 20px;
+    border-color: transparent;
+}
+.inputButton
+{
+    margin-left: 5px;
+    border-radius: 70%;
+    width: 40px;
+    height: 40px;
+}
+.todo
+{
+    text-align: center;
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
